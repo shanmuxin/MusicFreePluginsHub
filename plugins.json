@@ -3,167 +3,167 @@
   "plugins": [
     {
       "name": "Audiomack",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/audiomack.js",
+      "url": "./dist/audiomack.js",
       "version": "0.0.2"
     },
     {
       "name": "歌词网",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/geciwang.js",
+      "url": "./dist/geciwang.js",
       "version": "0.0.0"
     },
     {
       "name": "歌词千寻",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/geciqianxun.js",
+      "url": "./dist/geciqianxun.js",
       "version": "0.0.0"
     },
     {
       "name": "Navidrome",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/navidrome.js",
+      "url": "./dist/navidrome.js",
       "version": "0.0.0"
     },
     {
       "name": "suno",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/suno.js",
+      "url": "./dist/suno.js",
       "version": "0.0.0"
     },
     {
       "name": "udio",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/udio.js",
+      "url": "./dist/udio.js",
       "version": "0.0.0"
     },
     {
       "name": "猫耳FM",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/maoerfm.js",
+      "url": "./dist/maoerfm.js",
       "version": "0.1.4"
     },
     {
       "name": "快手",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/kuaishou.js",
+      "url": "./dist/kuaishou.js",
       "version": "0.0.2"
     },
     {
       "name": "音悦台",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/yinyuetai.js",
+      "url": "./dist/yinyuetai.js",
       "version": "0.0.1"
     },
     {
       "name": "Youtube",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/youtube.js",
+      "url": "./dist/youtube.js",
       "version": "0.0.1"
     },
     {
       "name": "bilibili",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/bilibili.js",
+      "url": "./dist/bilibili.js",
       "version": "0.2.3"
     },
     {
       "name": "WebDAV",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/webdav.js",
+      "url": "./dist/webdav.js",
       "version": "0.0.2"
     },
     {
       "name": "歌曲宝",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/gequbao.js",
+      "url": "./dist/gequbao.js",
       "version": "0.0.6"
     },
     {
       "name": "书音FM",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/shuyinfm.js",
+      "url": "./dist/shuyinfm.js",
       "version": "0.3.6"
     },
     {
       "name": "六月听书",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/6yueting.js",
+      "url": "./dist/6yueting.js",
       "version": "0.1.5"
     },
     {
       "name": "果核音乐",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/ghyinyue.js",
+      "url": "./dist/ghyinyue.js",
       "version": "0.0.1"
     },
     {
       "name": "5sing",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/5sing.js",
+      "url": "./dist/5sing.js",
       "version": "0.0.3"
     },
     {
       "name": "好听轻音乐",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/htqyy.js",
+      "url": "./dist/htqyy.js",
       "version": "0.1.0"
     },
     {
       "name": "爱听",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/at.js",
+      "url": "./dist/at.js",
       "version": "0.0.6"
     },
     {
       "name": "种子",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/zz.js",
+      "url": "./dist/zz.js",
       "version": "0.1.0"
     },
     {
       "name": "小秋音乐",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/xiaoqiu.js",
+      "url": "./dist/xiaoqiu.js",
       "version": "0.0.2"
     },
     {
       "name": "小枸音乐",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/xiaogou.js",
+      "url": "./dist/xiaogou.js",
       "version": "0.0.2"
     },
     {
       "name": "小芸音乐",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/xiaoyun.js",
+      "url": "./dist/xiaoyun.js",
       "version": "0.0.2"
     },
     {
       "name": "小蜜音乐",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/xiaomi.js",
+      "url": "./dist/xiaomi.js",
       "version": "0.0.2"
     },
     {
       "name": "小蜗音乐",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/xiaowo.js",
+      "url": "./dist/xiaowo.js",
       "version": "0.0.2"
     },
     {
       "name": "网易",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/wy.js",
+      "url": "./dist/wy.js",
       "version": "0.1.0"
     },
     {
       "name": "酷我",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/kw.js",
+      "url": "./dist/kw.js",
       "version": "0.1.0"
     },
     {
       "name": "酷狗_1",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/kugou.js",
+      "url": "./dist/kugou.js",
       "version": "0.1.4"
     },
     {
       "name": "酷狗_2",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/kg.js",
+      "url": "./dist/kg.js",
       "version": "0.1.0"
     },
     {
       "name": "qq",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/qq.js",
+      "url": "./dist/qq.js",
       "version": "0.1.0"
     },
     {
       "name": "mg",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/xiaomi.js",
+      "url": "./dist/xiaomi.js",
       "version": "0.1.0"
     },
     {
       "name": "W电台",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/Wdiantai.js",
+      "url": "./dist/Wdiantai.js",
       "version": "0.0.2"
     },
     {
       "name": "W音乐",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/shanmuxin/MusicFreePluginsHub/v0.1/dist/Wyinyue.js",
+      "url": "./dist/Wyinyue.js",
       "version": "0.2.3"
     }
   ]
